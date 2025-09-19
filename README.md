@@ -101,21 +101,11 @@ chicago-event-catalog/
 ├─ requirements.txt
 ├─ README.md
 ├─ .gitignore
-└─ docs/
-   ├─ Chicago US Event Mastersheet 072725.docx
-   ├─ Chicago US Fundraising Event Gathering System.docx
-   └─ Fundraising Organization EIN Address Deeper Search.docx
+
 ```
 
 ---
 
-## Documentation
-
-- `/docs/Chicago US Event Mastersheet 072725.docx` → Sample record layout  
-- `/docs/Chicago US Fundraising Event Gathering System.docx` → System requirements & workflow  
-- `/docs/Fundraising Organization EIN Address Deeper Search.docx` → EIN enrichment references  
-
----
 
 ## Security Notes
 
@@ -131,8 +121,3 @@ chicago-event-catalog/
 2. Create a branch `feature/your-feature`  
 3. Open a PR with a clear description  
 
----
-
-## License
-
-MIT — see [LICENSE](LICENSE).
